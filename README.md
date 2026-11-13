@@ -22,7 +22,6 @@ Les portions de code mettant en jeu lesdits fichiers sont conservées à titre d
 (master_repository):
   README.md
   LICENSE
-  TABLE_OF_CONTENTS.md
   parolotheque.ipynb
   master_thesis.pdf
 ```
